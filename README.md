@@ -3,7 +3,7 @@
   <img src=".github/tech-talk-logo.png" width="400">
 </p>
 
-<h1 align=center>Title for TechTalk Content Here</h1>
+<h1 align=center>Blockchain Basics</h1>
 
 #### Info
 ### Date: year-month-day
@@ -13,7 +13,7 @@
 <h3>&nbsp;</h3>
 
 #### Links
-### YouTube:
+### YouTube: https://youtu.be/IlhfNEidWp8
 ### Twitter:
 ### LinkedIn:
 
