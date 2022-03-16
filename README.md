@@ -6,9 +6,9 @@
 <h1 align=center>Blockchain Basics</h1>
 
 #### Info
-### Date: year-month-day
-### Location: Some location
-### Presenter: Some name
+### Date: 2020-01-31
+### Location: Online
+### Presenter: Galina Fendikevich, Martin Masser, Ryan Leacock
 
 <h3>&nbsp;</h3>
 
