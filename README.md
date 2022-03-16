@@ -5,32 +5,30 @@
 
 <h1 align=center>Blockchain Basics</h1>
 
-#### Info
-### Date: 2020-01-31
-### Location: Online
-### Presenter: Galina Fendikevich, Martin Masser, Ryan Leacock
-
-<h3>&nbsp;</h3>
-
-#### Links
-### YouTube: https://youtu.be/IlhfNEidWp8
-### Twitter:
-### LinkedIn:
-
 Description of the presentation here.
 
+<br />
 
+### Info
 
-## License
+**Date:** January 31st, 2021  
+**Location:** Online  
+**Presenters:** Galina Fendikevich, Martin Masser, Ryan Leacock  
 
-MIT @ [Lab49](https://lab49.com)
+### Links
+**YouTube:** https://youtu.be/IlhfNEidWp8  
+**Twitter:**  
+**LinkedIn:**  
 
-###### [⇡ Top](#)
+<br />
+<br />
 
-## Sponsored by Lab49
+##### Sponsored by:
 
 <a href="https://lab49.com">
   <img src=".github/logo.svg" />
 </a>
 
-###### [⇡ Top](#)
+##### License
+
+MIT @ [Lab49](https://lab49.com)
