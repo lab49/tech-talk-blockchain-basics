@@ -18,7 +18,7 @@ Later in the talk, smart contracts and web3 are discussed with a demo of how it 
 **Presenters:** Galina Fendikevich, Martin Masser, Ryan Leacock  
 
 ### Links
-**YouTube:** https://youtu.be/IlhfNEidWp8
+**YouTube:** https://youtu.be/IlhfNEidWp8  
 **Twitter:**  
 **LinkedIn:**  
 
