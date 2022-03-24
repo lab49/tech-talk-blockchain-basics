@@ -5,7 +5,7 @@
 
 <h1 align=center>Blockchain Basics</h1>
 
-Over the past few years, you have been seeing the term ‘blockchain technology,’ ‘Bitcoin’ and ‘Crypto’ pop up everywhere, . The lab49 Crypto team explain what blockchain technology is, from the first every use of cryptography, the technology that is used, how it works, and how it’s becoming vital in the digital world.
+Over the past few years, you have been seeing the term 'blockchain technology', 'Bitcoin' and 'Crypto' pop up everywhere. The Lab49 Crypto team explains what blockchain technology is, the first ever use of cryptography, the underlying technology technology and how it works, and how it’s becoming vital in the digital world.
 
 Later in the talk, smart contracts and web3 are discussed with a demo of how it is used and the blockchain projects Lab49 have be undertaking.
 
