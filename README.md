@@ -9,8 +9,6 @@ Over the past few years, you have been seeing the term 'blockchain technology', 
 
 Later in the talk, smart contracts and web3 are discussed with a demo of how it is used and the blockchain projects Lab49 have be undertaking.
 
-<br />
-
 ### Info
 
 **Date:** January 31st, 2021  
@@ -19,10 +17,9 @@ Later in the talk, smart contracts and web3 are discussed with a demo of how it 
 
 ### Links
 **YouTube:** https://youtu.be/IlhfNEidWp8  
-**Twitter:**  
+**Twitter:** https://twitter.com/lab49eng/status/1507031859296981000  
 **LinkedIn:**  
 
-<br />
 <br />
 
 ##### Sponsored by:
