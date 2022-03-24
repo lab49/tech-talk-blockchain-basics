@@ -5,7 +5,9 @@
 
 <h1 align=center>Blockchain Basics</h1>
 
-Description of the presentation here.
+Over the past few years, you have been seeing the term ‘blockchain technology,’ ‘Bitcoin’ and ‘Crypto’ pop up everywhere, . The lab49 Crypto team explain what blockchain technology is, from the first every use of cryptography, the technology that is used, how it works, and how it’s becoming vital in the digital world.
+
+Later in the talk, smart contracts and web3 are discussed with a demo of how it is used and the blockchain projects Lab49 have be undertaking.
 
 <br />
 
@@ -16,7 +18,7 @@ Description of the presentation here.
 **Presenters:** Galina Fendikevich, Martin Masser, Ryan Leacock  
 
 ### Links
-**YouTube:** https://youtu.be/IlhfNEidWp8  
+**YouTube:** https://youtu.be/IlhfNEidWp8
 **Twitter:**  
 **LinkedIn:**  
 
