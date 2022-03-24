@@ -18,7 +18,7 @@ Later in the talk, smart contracts and web3 are discussed with a demo of how it 
 ### Links
 **YouTube:** https://youtu.be/IlhfNEidWp8  
 **Twitter:** https://twitter.com/lab49eng/status/1507031859296981000  
-**LinkedIn:**  
+**LinkedIn:** https://www.linkedin.com/posts/brian-wm-mcallister_lab49-techtalk-blockchain-basics-activity-6912800154005716992-Ed8o
 
 <br />
 
